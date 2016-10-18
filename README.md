@@ -1,6 +1,6 @@
 # gitlab-apis
 
-[![tnpm version](http://web.npm.alibaba-inc.com/badge/v/@ali/gitlab-apis.svg?style=flat-square)](http://web.npm.alibaba-inc.com/package/@ali/gitlab-apis)
+The most comprehensive gitlab api, almost covers all gitlab apis. Also, we provide a isomorphic api which can be used both in browser and Node.js.
 ---
 
 ## Install
