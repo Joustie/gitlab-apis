@@ -1,0 +1,28 @@
+{
+  "name": "gitlab-apis",
+  "version": "1.0.0-beta",
+  "description": "Gitlab APIs Node Client",
+  "keywords": [
+    "gitlab",
+    "api",
+    "client"
+  ],
+  "author": "caoke.ck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitlab-api/gitlab-api/issues"
+  },
+  "homepage": "https://github.com/gitlab-api/gitlab-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js --timeout 20000"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "query-string": "^4.2.3"
+  },
+  "devDependencies": {
+    "should": "^11.1.0",
+    "mocha": "^3.0.2"
+  }
+}
